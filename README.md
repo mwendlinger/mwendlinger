@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am Maxi Wendlinger, PhD student at Technical University of Munich and researcher at Fraunhofer AISEC. My main research interests lie on the interactions of transparency and security in NLP/ Deep Learning Systems. More recently, I am particularly interested in using internal representations to investigate concepts related to the security of large language models, and using activation engineering to optimize model behavior.
+I am Maximilian Wendlinger, PhD student at the Technical University of Munich and research scientist at the Fraunhofer AISEC research institute. I focus on the interactions of interpretability and security in foundation models. Recently, I have become particularly interested in using internal representations to investigate concepts related to the security of large language models, and in using activation engineering to optimize model behavior.
 
 ---
 ### Links
